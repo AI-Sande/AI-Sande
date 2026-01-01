@@ -39,24 +39,6 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="CERTIFICATE_URL_ML" target="_blank">
-    <img src="https://img.shields.io/badge/Protocol-Machine%20Intelligence-purple?style=for-the-badge&labelColor=0d1117&color=ff0&logo=tensorflow&logoColor=white" alt="Machine Intelligence"/>
-  </a>
-  <a href="CERTIFICATE_URL_ML" target="_blank">
-    <img src="https://img.shields.io/badge/Protocol-Machine%20Intelligence-magenta?style=for-the-badge&labelColor=0d1117&color=ff0&logo=tensorflow&logoColor=white" alt="Machine Intelligence Neon"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="CERTIFICATE_URL_LINUX" target="_blank">
-    <img src="https://img.shields.io/badge/Protocol-Linux%20Operations-black?style=for-the-badge&labelColor=0d1117&color=0f0&logo=linux&logoColor=white" alt="Linux Operations"/>
-  </a>
-  <a href="CERTIFICATE_URL_LINUX" target="_blank">
-    <img src="https://img.shields.io/badge/Protocol-Linux%20Operations-green?style=for-the-badge&labelColor=0d1117&color=0f0&logo=linux&logoColor=white" alt="Linux Operations Neon"/>
-  </a>
-</p>
-
 > *All protocols verified. Integrity nodes synced with the grid.*
 
 ---
@@ -79,4 +61,4 @@
 ---
 
 ```txt
-— Sahl Ande | Grid Architect
+— Sahl Ande (A.K.A TheMatrix-1) | Matrix Grid Leader 
